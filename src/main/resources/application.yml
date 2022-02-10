@@ -1,0 +1,4 @@
+
+application:
+  workspacePath: /home/musiek/sandbox_workspace/
+  dockerImage: java-runner:1
