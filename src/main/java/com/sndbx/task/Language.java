@@ -1,4 +1,4 @@
-package com.sndbx.runner;
+package com.sndbx.task;
 
 public enum Language {
 
